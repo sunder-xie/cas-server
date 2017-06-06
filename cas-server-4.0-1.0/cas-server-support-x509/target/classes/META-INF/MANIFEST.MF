@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Jasig CAS X.509 Client Certificate Support
+Implementation-Version: 4.0.0
+Built-By: xieshengrong
+Specification-Vendor: Jasig
+Specification-Title: Jasig CAS X.509 Client Certificate Support
+Implementation-Vendor-Id: org.jasig.cas
+Build-Jdk: 1.8.0_60
+Specification-Version: 4.0.0
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Jasig
+
